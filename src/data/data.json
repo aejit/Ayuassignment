@@ -1,0 +1,74 @@
+[
+    {
+        "user" : {
+            "icon" : "../images/image1.jpg",
+            "tagline" : "lorem ipsum",
+            "type": "lorem",
+            "posts": 45,
+            "followers": 456,
+            "following": 15,
+            "images":[
+                 {
+                    "link" : "../images/image2.jpg",
+                    "tagForimage" : "lorem ipsum datum",
+                    "numberOflikes": 78,
+                    "comments" : [
+                        {"By" : "alpha", "comment" :"hello world"},
+                        {"By" : "beta", "comment" :" world"},
+                        {"By" : "gamma", "comment" :"hola"}
+                    ]
+                },
+                 {
+                    "link" : "../images/image3.jpg",
+                    "tagForimage" : "lorem ipsum datum",
+                    "numberOflikes": 98,
+                    "comments" : [
+                        {"By" : "alpha", "comment" :"hello world"},
+                        {"By" : "beta", "comment" :" world"},
+                        {"By" : "gamma", "comment" :"hola"}
+                    ]
+                },
+                 {
+                    "link" : "../images/image4.jpg",
+                    "tagForimage" : "lorem ipsum datum",
+                    "numberOflikes": 38,
+                    "comments" : [
+                        {"By" : "alpha", "comment" :"hello world"},
+                        {"By" : "beta", "comment" :" world"},
+                        {"By" : "gamma", "comment" :"hola"}
+                    ]
+                },
+                {
+                    "link" : "../images/image5.jpg",
+                    "tagForimage" : "lorem ipsum datum",
+                    "numberOflikes": 28,
+                    "comments" : [
+                        {"By" : "alpha", "comment" :"hello world"},
+                        {"By" : "beta", "comment" :" world"},
+                        {"By" : "gamma", "comment" :"hola"}
+                    ]
+                },
+               {
+                    "link" : "../images/image6.jpg",
+                    "tagForimage" : "lorem ipsum datum",
+                    "numberOflikes": 8,
+                    "comments" : [
+                        {"By" : "alpha", "comment" :"hello world"},
+                        {"By" : "beta", "comment" :" world"},
+                        {"By" : "gamma", "comment" :"hola"}
+                    ]
+                },
+                {
+                    "link" : "../images/image7.jpg",
+                    "tagForimage" : "lorem ipsum datum",
+                    "numberOflikes": 138,
+                    "comments" : [
+                        {"By" : "alpha", "comment" :"hello world"},
+                        {"By" : "beta", "comment" :" world"},
+                        {"By" : "gamma", "comment" :"hola"}
+                    ]
+                }
+            ]
+        }
+    }
+]

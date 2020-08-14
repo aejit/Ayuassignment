@@ -1,0 +1,11 @@
+1. Install node js & npm, and run npm install to install node modules
+2. use "npm start" to start the app
+3. visit "localhost:3000"
+4. open develpoer tools and set screen size as 375 X 570 (it isn't responsive now, advised for better view)
+5. Click on top arrow icon to navigate to homepage
+6. Click on heart icon to increase the like count (you can dislike, also button doesn't change color)
+7. Click on comment icon beside heart to navigate to comments page
+8. Enter some comment and press post 
+9. Home icon on the footer is clickable and user can navigate to home page from any page using this
+
+NOTE: other buttons are assigned any event,
